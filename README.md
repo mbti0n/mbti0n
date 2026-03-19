@@ -1,4 +1,5 @@
-## Hi there 👋
+# MBti0n
+Python | HTML | CSS | PHP | JavaScript | Java
 
 <!--
 **mbti0n/mbti0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
