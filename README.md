@@ -1,4 +1,4 @@
-# MBti0n
+# MBtion / Jimmy
 Python | HTML | CSS | PHP | JavaScript | Java
 
 <!--
