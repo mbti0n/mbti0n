@@ -1,5 +1,8 @@
 # MBtion / Jimmy
 
+## Hello everynyan | Chào mọi người | Hola a todos
+I'm Jimmy, and I love programming.
+
 ## Programming experiences
 <img width="70" height="70" alt="icnsFile_4bb264cbc1c376c3d6a0134b6a95f203_Python" src="https://github.com/user-attachments/assets/d8c3ca79-269e-4c3b-a097-6cddce49c000" />
 <img width="70" height="70" alt="icnsFile_21322eb723f22638e1e4c0b7736b7804_kenX2Lps1L" src="https://github.com/user-attachments/assets/35b62720-c1bf-4739-a97b-e726269d73b6" />
