@@ -2,8 +2,8 @@
   <img width=100% height=100% alt="mbti0n_1_-removebg-preview" src="https://github.com/user-attachments/assets/c5fc81a5-5c48-4872-8674-8e3e04473b27" /> <br>
   
   <p><b>I'm Jimmy, and I'm coding.</b></p>
-  <a href="https://mbti0n.github.io/nichesite"><img alt="🌐 NicheSite" src="https://img.shields.io/badge/%F0%9F%8C%90%20NicheSite-49B581?style=for-the-badge&logoColor=ffffff" /></a>
-  <a href="https://mbti0n.github.io"><img alt="🗃️ Portfolio" src="https://img.shields.io/badge/%F0%9F%97%83%EF%B8%8F%20Portfolio-49B581?style=for-the-badge&logoColor=ffffff" /></a> <br><br>
+  <a href="https://mbti0n.github.io/nichesite"><img alt="🌐 NicheSite" src="https://img.shields.io/badge/%F0%9F%8C%90%20NicheSite-2ea44f?style=for-the-badge&logoColor=ffffff" /></a>
+  <a href="https://mbti0n.github.io"><img alt="🗃️ Portfolio" src="https://img.shields.io/badge/%F0%9F%97%83%EF%B8%8F%20Portfolio-2ea44f?style=for-the-badge&logoColor=ffffff" /></a> <br><br>
 
   <a href="https://github.com/monapdx/90s-collage-maker/issues/new?template=suggest-category.yml"><img alt="HTML" src="https://img.shields.io/badge/HTML-464646?style=for-the-badge&logo=html5&logoColor=ffffff" /></a>
 <a href="https://github.com/monapdx/90s-collage-maker/issues/new?template=suggest-category.yml"><img alt="Python" src="https://img.shields.io/badge/Python-464646?style=for-the-badge&logo=python&logoColor=ffffff" /></a>
