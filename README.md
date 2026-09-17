@@ -2,6 +2,7 @@
   <img width=100% height=100% alt="mbti0n_1_-removebg-preview" src="https://github.com/user-attachments/assets/c5fc81a5-5c48-4872-8674-8e3e04473b27" /> <br>
   
   <h3>I'm Jimmy, and I'm coding.</h3>
+  <i>coding things since 2023.</i> <br><br>
   <a href="https://www.linkedin.com/in/jimmy-bui-mbti0n/"><img alt="👤 LinkedIn" src="https://img.shields.io/badge/%F0%9F%91%A4%20LinkedIn-1f6feb?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://www.instagram.com/mbti0n/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ed0d92?style=for-the-badge&logo=instagram" /></a>
   <a href="https://mbti0n.github.io/nichesite"><img alt="🌐 NicheSite" src="https://img.shields.io/badge/%F0%9F%8C%90%20NicheSite-2ea44f?style=for-the-badge&logoColor=ffffff" /></a>
